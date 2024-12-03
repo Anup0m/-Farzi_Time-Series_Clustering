@@ -2,7 +2,7 @@
 
 ## Group Members
 - Anupam Pandey:Ku2407u021
-- Aryan Patel: Rku2407u026
+- Aryan Patel: ku2407u026
 - Kavya Patel: ku2407u105
 
 ## Objective of the Project
