@@ -23,9 +23,9 @@ Work Distribution for the COVID-19 Time Series Clustering Project
   - Assist in creating clustering-based visualizations and ensure the model is running efficiently.
   - Help in writing parts of the final report related to model interpretation and analysis.
 
-4. Muhammud Hamza Farhan Achhava (Report Writing & Summary)
+4. Full team resposibility (Report Writing & Summary)
 - Responsibilities:
   - Take the lead in compiling and writing the final project report and documentation.
-  - Write the "Objective", "Challenges Faced", "Summary of Results", and "Future Enhancements" sections for the README.
+  - Write the "Objective", "Challenges Faced" and "Summary of Results" sections for the README.
   - Assist with interpreting the clustering results and discussing the project’s implications.
   - Provide feedback and quality control on the code and documentation written by other team members.
