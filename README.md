@@ -48,8 +48,4 @@ The COVID-19 data used in this project is sourced from:
 - **Time Series Nature of Data**: The data has a time-dependent structure, which made it necessary to apply preprocessing steps (e.g., smoothing or normalization) to make it suitable for clustering.
 - **Handling Large Datasets**: The dataset is large, which sometimes caused slow execution in cloud environments like Google Colab. Efficient data handling and chunking techniques were used to address this issue.
 
-## Future Enhancements
-- **Alternative Clustering Algorithms**: Experiment with other clustering algorithms like DBSCAN or Hierarchical Clustering to compare results.
-- **Incorporating Additional Data**: Integrate other variables such as vaccination rates, testing data, and government interventions to enhance the clustering analysis.
-- **Country-wise Clustering**: Extend the clustering to include more granular regional data within countries for a more localized analysis of COVID-19 trends.
-- **Predictive Modeling**: After clustering, apply predictive models to forecast future trends in the COVID-19 pandemic based on identified clusters.
+
