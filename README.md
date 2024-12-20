@@ -14,7 +14,6 @@ The objective of this project is to apply time series clustering techniques on C
 - **NumPy**: For numerical operations, array manipulations, and mathematical functions.
 - **Matplotlib**: For generating visualizations, including time series plots and cluster visualizations.
 - **Scikit-learn**: For implementing K-Means clustering and other machine learning algorithms.
-- **Seaborn**: For enhanced data visualizations and statistical graphics.
 
 ## Data Source(s)
 The COVID-19 data used in this project is sourced from:
