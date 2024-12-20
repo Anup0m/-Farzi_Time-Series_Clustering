@@ -1,30 +1,30 @@
 
-### Work Distribution for the COVID-19 Time Series Clustering Project
+Work Distribution for the COVID-19 Time Series Clustering Project
 
-#### **1. Anupam Pandey (Project Lead / Data Preprocessing & Clustering)**
-- **Responsibilities:**
+1. Anupam Pandey (Project Lead / Data Preprocessing & Clustering)
+- Responsibilities:
   - Lead the project and coordinate tasks among team members.
   - Handle data preprocessing, including data cleaning, handling missing values, and converting date columns.
   - Implement K-Means clustering and other machine learning algorithms.
   - Ensure the proper normalization of the data before clustering.
   - Assist in writing the README and documentation for the project.
 
-#### **2. Kavya Patel (Data Collection / Visualization)**
-- **Responsibilities:**
+2. Kavya Patel (Data Collection / Visualization)
+- Responsibilities:
   - Collect and upload the COVID-19 dataset (e.g., from Kaggle or Johns Hopkins University).
   - Clean and organize the data, ensuring it's in the correct format for analysis.
   - Create visualizations using `Matplotlib` and `Seaborn` to display time-series trends, cluster results, and other important insights.
   - Develop and modify the time-series plots for each cluster.
 
-#### **3. Aryan Patel (Cluster Analysis & Model Tuning)**
-- **Responsibilities:**
+3. Aryan Patel (Cluster Analysis & Model Tuning)
+- Responsibilities:
   - Perform K-Means clustering and experiment with different values of the number of clusters using the Elbow Method.
   - Analyze clustering results, including interpreting the significance of the clusters.
   - Assist in creating clustering-based visualizations and ensure the model is running efficiently.
   - Help in writing parts of the final report related to model interpretation and analysis.
 
-#### **4. Muhammud Hamza Farhan Achhava (Report Writing & Summary)**
-- **Responsibilities:**
+4. Muhammud Hamza Farhan Achhava (Report Writing & Summary)
+- Responsibilities:
   - Take the lead in compiling and writing the final project report and documentation.
   - Write the "Objective", "Challenges Faced", "Summary of Results", and "Future Enhancements" sections for the README.
   - Assist with interpreting the clustering results and discussing the project’s implications.
