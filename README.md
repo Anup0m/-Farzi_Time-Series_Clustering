@@ -4,7 +4,6 @@
 - **Anupam Pandey** - Roll No: KU2407U021
 - **Aryan Patel** - Roll No: KU2407U026
 - **Kavya Patel** - Roll No: KU2407U105
-- **Muhammud Hamza Farhan Achhava** - Roll No: KU2407U138
 
 ## Objective of the Project
 The objective of this project is to apply time series clustering techniques on COVID-19 data to identify trends and patterns in the spread of the virus over time. Using clustering methods such as K-Means, we group countries or regions based on similarities in their daily COVID-19 cases. This analysis provides insights into the progression of the pandemic and aids in understanding how different regions may be handling the outbreak.
